@@ -142,7 +142,12 @@ publications:
         link: 
         authors: 
         conference:  
-
+        
+      - title: Spring Data.
+        link: 
+        authors: 
+        conference: 
+        
       - title: Solid Java Architecture with Spring.
         link: 
         authors: 
