@@ -98,6 +98,10 @@ projects:
         link: "https://github.com/MigPalSer/cancillerias"
         tagline: "in my free time, I work on an application project that I am developing on my own. It is a strategy game developed in Java with which I am learning a lot about how to develop an application from scratch, implementing the right architecture that will allow to develop and scale the project handily."
 
+      - title: MyLiteCRM
+        link: "https://github.com/MigPalSer/MyLiteCRM"
+        tagline: "As a practice case for some of my courses, I developed, and sometimes I improve, a very simple CRM oriented REST service with Spring Boot and Spring Data."
+
 publications:
     title: Training and certifications
     intro: |
