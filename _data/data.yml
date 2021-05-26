@@ -27,7 +27,7 @@ sidebar:
 
     programminglanguages: Java, Octave, Matlab.
     databases: SQL, MySQL.
-    frameworks: Java Swing, JDBC, JPA, Java EE, Junit, Hamcrest, Mockito, Spring, Spring boot, Spring MVC, Maven, Hibernate.  
+    frameworks: Java Swing, JDBC, JPA, Java EE, Junit, Hamcrest, Mockito, Spring, Spring Boot, Spring Data, Spring MVC, Maven, Hibernate.  
     systems: Windows, GNU/Linux (Ubuntu).
     versioncontrol: Git, GitHub.
     software: MSOffice, OpenOffice, LibreOffice, Microsoft Teams, Eclipse, Wordpress, DBdesigner.
@@ -100,7 +100,7 @@ projects:
 
       - title: MyLiteCRM
         link: "https://github.com/MigPalSer/MyLiteCRM"
-        tagline: "As a practice case for some of my courses, I developed, and sometimes I improve, a very simple CRM oriented REST service with Spring Boot and Spring Data."
+        tagline: "To practice what I have learned in some of my courses, I have developed, and sometimes I improve, a very simple CRM oriented REST service with Spring Boot and Spring Data."
 
 publications:
     title: Training and certifications
