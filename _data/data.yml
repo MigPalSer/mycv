@@ -25,13 +25,13 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    programminglanguages: Java, Octave, Matlab.
-    databases: SQL, MySQL.
-    frameworks: Java Swing, JDBC, JPA, Java EE, Junit, Hamcrest, Mockito, Spring, Spring Boot, Spring Data, Spring MVC, Maven, Hibernate.  
+    programminglanguages: Java, Python, Octave, Matlab.
+    databases: SQL, MySQL, Oracle.
+    frameworks: Java Swing, JDBC, JPA, Java EE, Junit, Hamcrest, Mockito, Spring, Spring Boot, Spring Data, Spring MVC, Maven, Hibernate, Gradle, LibGDX, Bash.  
     systems: Windows, GNU/Linux (Ubuntu).
-    versioncontrol: Git, GitHub.
-    software: MSOffice, OpenOffice, LibreOffice, Microsoft Teams, Eclipse, Wordpress, DBdesigner.
-    softskills: Leadership, Project management, Personal productivity, Scrum, Agile, Teaching.
+    versioncontrol: Git, GitHub, SVN.
+    software: MSOffice, OpenOffice, LibreOffice, Microsoft Teams, Eclipse, Wordpress, DBdesigner, Moba Xterm, VMware, Jira, Confluence, Orbis.
+    softskills: Leadership, Project management, Personal productivity, Scrum, Agile, Teaching, DevOps.
     newlanguages: Spanish (native), English (professional).
     
     languages:
