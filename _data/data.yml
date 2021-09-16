@@ -68,6 +68,13 @@ education:
       time: 2011 - 2017
       details: 
 experiences:
+
+    - role: Software developer
+      time:
+      company: (2021- Today).
+      details: |
+        I currently work as a software developer providing consultancy for the banking sector. My responsibilities include back-end development of improvements and additions in applications, incident resolution, service maintenance and dealing directly with customers, all of which is supported by teamwork in a DevOps environment. Technologies and tools: Java, Java Spring, Bash, VB6, SQL, Oracle, Tortoise SVN, Eclipse, Moba Xterm, VMware, Putty, SQL Manager, Agile, DevOps, Jira, Confluence, Orbis, MS Teams, MS Windows 10, Linux.
+
     - role: Teaching
       time:
       company: Mathematics and science high school teacher (2021), Mathematics tutor (2014-2020), MS Excel trainer (2019).
