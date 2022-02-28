@@ -126,88 +126,19 @@ publications:
         
       - title: Arquitectura Java
         link: 
-        authors: "Courses: OOP with Java, Java Standard Edition API Core, Java Standard Edition API Core, Java Standard Edition API Core, Java Standard Edition API Core, Java Standard Edition API Core, Java Standard Edition API Core, Java Standard Edition API Core, Java Standard Edition API Core, Java Standard Edition API Core, Java Standard Edition API Core, Java Standard Edition API Core" 
+        authors: "Courses: OOP with Java; Java Standard Edition APIs Core; Java 8: lambdas, streams and good practices; Web Developing in Java; Java EE and EJBS; Spring Framework; Spring Boot; Spring Data; Solid Java Architecture with Spring; Java Persistence API (JPA); Maven; TDD Java." 
         conference:  
-        
-      - title: Java Standard Edition API Core.
-        link: 
-        authors: 
-        conference:  
-        
-      - title: "Java 8: lambdas, streams and good practices."
-        link: 
-        authors: 
-        conference:  
-        
-      - title: Web Developing in Java.
-        link: 
-        authors: 
-        conference:  
-
-      - title: Java EE and EJB.
-        link: 
-        authors: 
-        conference:  
-
-      - title: Spring Framework.
-        link: 
-        authors: 
-        conference:  
-
-      - title: Spring Boot.
-        link: 
-        authors: 
-        conference:  
-        
-      - title: Spring Data.
-        link: 
-        authors: 
-        conference: 
-        
-      - title: Solid Java Architecture with Spring.
-        link: 
-        authors: 
-        conference:  
-
-      - title: Java Persistence API (JPA).
-        link: 
-        authors: 
-        conference:  
-        
-      - title: Maven.
-        link: 
-        authors: 
-        conference: 
- 
-      - title: TDD Java.
-        link: 
-        authors: 
-        conference: 
-
+       
       - title: English B2 TOEIC.
         link: 
         authors: 
         conference:  
 
-      - title: Leading Digital Transformation in organizations.
+      - title: Other
         link: 
-        authors: 
+        authors: "Other courses: Leading Digital Transformation in organizations; Introduction to Business Intelligence and Big Data; Project Management with Agile and Lean methodologies; Path to excellence in Project Management."
         conference:  
 
-      - title: Introduction to Business Intelligence and Big Data.
-        link: 
-        authors: 
-        conference:  
-
-      - title: Project Management with Agile and Lean methodologies.
-        link: 
-        authors: 
-        conference:  
-        
-      - title: Path to excellence in Project Management.
-        link: 
-        authors: 
-        conference: 
 
 
 
