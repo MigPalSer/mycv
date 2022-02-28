@@ -70,11 +70,17 @@ education:
       details: 
 experiences:
 
-    - role: Software developer
+    - role: Automation and DevOps engineer
       time:
       company: (2021- Today).
       details: |
-        I currently work as a software developer providing consultancy for the banking sector. My responsibilities include back-end development of improvements and additions in applications, incident resolution, service maintenance and dealing directly with customers, all of which is supported by teamwork in a DevOps environment. Technologies and tools: Java, Java Spring, Bash, VB6, SQL, Oracle, Tortoise SVN, Eclipse, Moba Xterm, VMware, Putty, SQL Manager, Agile, DevOps, Jira, Confluence, Orbis, MS Teams, MS Windows 10, Linux.
+        "I am currently working on the automation of different SDLC processes applying CI/CD methodologies. After an extensive training in DevOps tools and Test Automation, I am currently involved in different projects for the insurance sector. Technologies and tools: DevOps, CI/CD, Git, Docker, Jenkins,  Kubernetes, Terraform, Cloud (AWS and Azure), Java, Groovy, Maven, Gradle, Spring boot, REST services, Selenium, Cucumber, Javascript, Node, Mocha, Cypress, Agile development, TDD, BDD."
+
+    - role: Software developer
+      time:
+      company: (2021).
+      details: |
+        I worked as a software developer providing consultancy for the banking sector. My responsibilities included back-end development of improvements and additions in applications, incident resolution, service maintenance and dealing directly with customers, all of which was supported by teamwork in a DevOps environment. Technologies and tools: Java, Java Spring, Bash, VB6, SQL, Oracle, SVN, Agile, DevOps, Jira, Confluence, MS Teams, MS Windows 10, Linux.
 
     - role: Teaching
       time:
@@ -125,6 +131,16 @@ publications:
         authors: 
         conference: 
         
+      - title: Junior DevOps training
+        link: 
+        authors: "I participated in a two-month intensive training as a junior DevOps engineer receiving courses, with mentoring and doing projects with different technologies. Technologies and tools covered: DevOps, CI/CD, Git, Docker, Jenkins, Maven, Kubernetes, Terraform, Cloud (AWS and Azure)."
+        conference:  
+        
+      - title: Training in Test Automation
+        link: 
+        authors: "I completed a one month full time training in testing with a DevOps perspective; covering different theoretical and practical aspects in web projects with Java and Javascript. Technologies and tools covered: Git, Docker, Java, Gradle, Spring boot, Jenkins, Junit, REST services, Selenium, Selenide, Selenoid, Cucumber, Javascript, Node, Mocha, Cypress, Agile development, DevOps, TDD, BDD." 
+        conference:  
+        
       - title: Arquitectura Java
         link: 
         authors: "Courses: OOP with Java; Java Standard Edition APIs Core; Java 8: lambdas, streams and good practices; Web Developing in Java; Java EE and EJBS; Spring Framework; Spring Boot; Spring Data; Solid Java Architecture with Spring; Java Persistence API (JPA); Maven; TDD Java." 
@@ -137,7 +153,7 @@ publications:
 
       - title: Other
         link: 
-        authors: "Other courses: Leading Digital Transformation in organizations; Introduction to Business Intelligence and Big Data; Project Management with Agile and Lean methodologies; Path to excellence in Project Management."
+        authors: "Other courses: Green coding; REST API web services; Functional Java lambdas and streams; Leading Digital Transformation in organizations; Introduction to Business Intelligence and Big Data; Project Management with Agile and Lean methodologies; Path to excellence in Project Management."
         conference:  
 
 
