@@ -104,17 +104,9 @@ projects:
     intro: 
       
     assignments:
-      - title: OldToys
-        link: "https://github.com/MigPalSer/oldtoys"
-        tagline: "I made a great number of small programs and applications during my first learning period using Java. Those include, among others, calculators, little games (snake, guessing numbers, three-in-a-row, blackjack…), desktop applications using Java Swing, a chat using sockets, a text editor…"
-
-      - title: Chanceries
-        link: "https://github.com/MigPalSer/cancillerias"
-        tagline: "In my free time, I work on an application project that I am developing on my own. It is a strategy game developed in Java with which I am learning a lot about how to develop an application from scratch, implementing the right architecture that will allow to develop and scale the project handily."
-
-      - title: MyLiteCRM
-        link: "https://github.com/MigPalSer/MyLiteCRM"
-        tagline: "To practice what I have learned in some of my courses, I have developed, and sometimes I improve, a very simple CRM oriented REST service with Spring Boot and Spring Data."
+      - title: My repositories
+        link: "https://github.com/MigPalSer/"
+        tagline: "I enjoy working in my spare time on different programming projects. These are available in my github repository, including programming challenges (hackerrank or freecodecamp), sandboxes that I use to learn different tools or follow courses and other minor projects, such as a map generator for the board game Twilight Imperium."
 
 publications:
     title: Training and certifications
