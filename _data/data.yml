@@ -70,11 +70,11 @@ education:
       details: 
 experiences:
 
-    - role: Automation and DevOps engineer
+    - role: DevOps engineer and Software developer
       time:
       company: (2021- Today).
       details: |
-        I am currently working on the automation of different SDLC processes applying CI/CD methodologies. After an extensive training in DevOps tools and Test Automation, I am currently involved in different projects for the insurance sector. Technologies and tools: DevOps, CI/CD, Git, Docker, Jenkins,  Kubernetes, Terraform, Cloud (AWS and Azure), Java, Groovy, Maven, Gradle, Spring boot, REST services, Selenium, Cucumber, Javascript, Node, Mocha, Cypress, Agile development, TDD, BDD.
+        I am currently working as a DevOps engineer and software developer, developing projects in the insurance sector. As a DevOps engineer my responsibilities include the automation of applications following the CI/CD standard, developing pipelines in Jenkins; the creation of infrastructure environments in Azure with Kubernetes for the deployment and the management, monitoring and troubleshooting of these deployments. As a developer, my responsibilities are focused on the BackEnd development of several web microservices with REST architecture using Java with Spring Boot as well as its integration with FrontEnd (Angular), MongoDB and PostgreSQL. 
 
     - role: Software developer
       time:
