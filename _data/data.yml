@@ -26,12 +26,12 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     programminglanguages: Java, Python, JavaScript, Groovy, Octave, Matlab.
-    databases: SQL, MySQL, Oracle.
+    databases: SQL, PostgreSQL, MySQL, Oracle, MongoDB.
     frameworks: Jenkins, Selenium, Cucumber, Node, Mocha, Cypress. 
-    javaframeworks: Swing, JDBC, JPA, JEE, Junit, Hamcrest, Mockito, Spring, Spring Boot, Spring Data, Spring MVC, Maven, Hibernate, Gradle, LibGDX.
-    systems: Windows, GNU/Linux (Ubuntu), Bash, Docker, Kubernetes, Terraform, Cloud, AWS, Azure.
-    versioncontrol: Git, GitHub, SVN.
-    software: MSOffice, OpenOffice, LibreOffice, MS Teams, Eclipse, VSC, Wordpress, Jira, Confluence.
+    javaframeworks: Spring, Spring Boot, Spring Data, Spring MVC, Spring HATEOAS, Maven, Hibernate, Gradle, Lombok, Swing, JDBC, JPA, JEE, Junit, Hamcrest, Mockito, LibGDX.
+    systems: Windows, GNU/Linux (Ubuntu), Bash, Docker, Kubernetes, Terraform, Cloud, Azure, AWS.
+    versioncontrol: Git, GitHub, Bitbucket, SVN.
+    software: MSOffice, OpenOffice, LibreOffice, MS Teams, Eclipse, IntelliJ, VSC, Wordpress, Lens, Jira, Confluence.
     softskills: Leadership, Project management, Personal productivity, Scrum, Agile, Teaching, DevOps, CI/CD, TDD, BDD.
     newlanguages: Spanish (native), English (professional).
     
